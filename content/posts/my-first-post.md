@@ -4,4 +4,5 @@ draft = false
 title = 'My First Post'
 +++
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 1 cnhfybws
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 1 cnhfybws 
+редактирование через гит
